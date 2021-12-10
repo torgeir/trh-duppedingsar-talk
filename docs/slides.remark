@@ -71,9 +71,8 @@ style="height: 40vh"/>
 ---
 # LED-array i stua
 <div class="grid">
-<video src="1.mov" width="50%" autoplay loop volume=0></video>
-<img src="led3.jpg">
-<img src="led2.jpg">
+<video src="1.mov" width="100%" autoplay loop volume=0></video>
+<img src="led4.png">
 </div>
 ---
 # Digital effektpedal til gitar
